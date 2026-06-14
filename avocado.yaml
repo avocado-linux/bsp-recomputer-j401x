@@ -4,7 +4,7 @@ supported_targets:
 
 extensions:
   avocado-bsp-recomputer-j401x:
-    version: 2024.1.0
+    version: 0.1.0
     release: r0
     summary: Board support for the SeeedStudio Recomputer J401x
     description: Board support for the SeeedStudio Recomputer J401x (Orin NX based)
